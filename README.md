@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aditya Meshram</p>
+<p align="left"Aspiring Android Developer | Building user-friendly mobile apps | Currently exploring Jetpack Compose for modern UI development</p>
 
 ###
 
