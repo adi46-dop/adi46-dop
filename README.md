@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ B.Tech Student in Priyadarshini College Of Engineering<br>📚 I'm currently learning Android Developer.</p>
+<p align="left">✨ B.Tech Student in Priyadarshini College Of Engineering<br>📚 I'm currently learning Android Developemt.</p>
 
 ###
 
